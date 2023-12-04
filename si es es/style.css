@@ -1,0 +1,50 @@
+.flexcon1{
+    text-align: center;
+    background-color: blue;
+    height: 7vh;
+}
+h3{
+    padding-top: 1.8vh;
+    padding-bottom: 1.8vh;
+}
+.flexcon2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 5vh;
+    background-color: forestgreen;
+    
+}
+.item1{
+    font-weight: bold;
+    font-size: 2.3vh;
+    padding-top: 1.4vh;
+}
+.item2{
+    font-weight: bold;
+    font-size: 2.3vh;
+    padding-top: 1.4vh;
+}
+.flexcon3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 3vh;
+}
+.captions{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-weight: bold;
+    font-size: large;
+    
+}
+.cap1{
+    padding-left: 40px;
+}
+.cap2{
+    padding-right: 55px;
+}
+.cap3{
+    padding-right: 70px;
+}
